@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+pandas
+numpy
+scikit-learn
+sentence-transformers
+python-dotenv
+
